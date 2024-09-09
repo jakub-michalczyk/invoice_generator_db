@@ -1,5 +1,5 @@
 {
-  "data": [
+  "data": 
     {
       "name": "KLG test task",
       "address": "Poland",
@@ -8,5 +8,4 @@
         "789-456-123"
       ]
     }
-  ],
 }
